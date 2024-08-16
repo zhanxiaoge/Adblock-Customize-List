@@ -1,0 +1,14 @@
+{
+  "name": "adblock-customize-list",
+  "author": "ZhanXiaoGe",
+  "version": "0.0.2",
+  "license": "MIT",
+  "main": "./index.txt",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhanxiaoge/Adblock-Customize-List.git"
+  },
+  "files": [
+    "./index.txt"
+  ]
+}
