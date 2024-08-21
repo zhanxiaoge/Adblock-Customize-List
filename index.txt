@@ -4,3 +4,4 @@
 ! Licence: Copyright (c) 2024 ZhanXiaoGe. All rights reserved
 
 baidu.com###bottom_layer
+bilibili.com##.adblock-tips
