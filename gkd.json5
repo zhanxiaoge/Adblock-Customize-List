@@ -3,7 +3,7 @@
   "version": 1,
   "name": "默认订阅",
   "author": "ZhanXiaoGe",
-  "updateUrl": "https://unpkg.com/adblock-customize-list@latest/gkd.json",
+  "updateUrl": "https://unpkg.com/adblock-customize-list@latest/gkd.json5",
   "checkUpdateUrl": "https://unpkg.com/adblock-customize-list@latest/gkd.version.json",
   "globalGroups": [
     {

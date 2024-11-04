@@ -1,7 +1,7 @@
 {
   "name": "adblock-customize-list",
   "author": "ZhanXiaoGe",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "./index.txt",
   "repository": {
