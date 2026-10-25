@@ -1,9 +1,8 @@
-! Version: 202610252324
+! Version: 202610260032
 ! Title: Adblock-Customize-List
-! Last modified: 25 Oct 2026 23:24 UTC
 ! Licence: Copyright (c) ZhanXiaoGe. All rights reserved
 
 baidu.com###bottom_layer
 bilibili.com##.adblock-tips
 
-csp.aliexpress.com##.resizable-container.media-center-image-panel-left:style(width:360px!important)
+csp.aliexpress.com##.resizable-container.media-center-image-panel-left{width:360px!important}
