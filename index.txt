@@ -4,5 +4,3 @@
 
 baidu.com###bottom_layer
 bilibili.com##.adblock-tips
-
-csp.aliexpress.com##.resizable-container.media-center-image-panel-left{width:360px!important}
